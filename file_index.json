@@ -1,0 +1,42 @@
+[
+  {
+    "path": ".github/workflows/update-file-index.yml",
+    "sha": "11e30c8a53761069c31b6d742e9f6b107d94c1a3",
+    "size": 1282,
+    "last_commit": "2a69b2b20a05fdaa357490d9dd39fc66446b2985",
+    "last_commit_date": "2025-09-06 10:57:23 +0900",
+    "author": "Kenta Tanaka"
+  },
+  {
+    "path": ".gitignore",
+    "sha": "5ca0973f8fe283e3fbca710c2b5ac5233228abdb",
+    "size": 11,
+    "last_commit": "2a69b2b20a05fdaa357490d9dd39fc66446b2985",
+    "last_commit_date": "2025-09-06 10:57:23 +0900",
+    "author": "Kenta Tanaka"
+  },
+  {
+    "path": "LICENSE",
+    "sha": "dd3c157faae0dfa2170511c8f7f1ac8956e2dc10",
+    "size": 1084,
+    "last_commit": "cf25f86ee97db54ed26d096a1ab6a41b03562ff9",
+    "last_commit_date": "2025-09-06 10:53:53 +0900",
+    "author": "鶴見教育工学研究所"
+  },
+  {
+    "path": "example_story.md",
+    "sha": "ca4d5f9cf981d3635c21b204f37ecfeb0f69f628",
+    "size": 9803,
+    "last_commit": "2a69b2b20a05fdaa357490d9dd39fc66446b2985",
+    "last_commit_date": "2025-09-06 10:57:23 +0900",
+    "author": "Kenta Tanaka"
+  },
+  {
+    "path": "generate_file_index.sh",
+    "sha": "77ef1e5227852bec956aa635c32e1e335e623469",
+    "size": 1996,
+    "last_commit": "2a69b2b20a05fdaa357490d9dd39fc66446b2985",
+    "last_commit_date": "2025-09-06 10:57:23 +0900",
+    "author": "Kenta Tanaka"
+  }
+]
