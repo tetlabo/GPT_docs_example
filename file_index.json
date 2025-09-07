@@ -32,6 +32,14 @@
     "author": "Kenta Tanaka"
   },
   {
+    "path": "file_index.json",
+    "sha": "afea32ef7225e6d14315b02c301988606d47df6a",
+    "size": 1324,
+    "last_commit": "00e683c17b5f5543e318411fec83a449fbfbc7d9",
+    "last_commit_date": "2025-09-06 01:59:04 +0000",
+    "author": "github-actions[bot]"
+  },
+  {
     "path": "generate_file_index.sh",
     "sha": "77ef1e5227852bec956aa635c32e1e335e623469",
     "size": 1996,
